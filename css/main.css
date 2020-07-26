@@ -307,6 +307,19 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 }
 /* Item Box */
+.big-icon .iconify {
+  font-size: 46px;
+  line-height: 1em;
+  float: left;
+  margin-right: 12px;
+}
+
+.big-icon h3{
+  display: inline;
+  line-height: 1em;
+  margin: 3px 0px 0px 0px;
+  font-size: 1em;
+}
 
 .item-box{
   padding: 6px 6px 6px 10px;
