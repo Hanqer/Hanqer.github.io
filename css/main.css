@@ -360,8 +360,8 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 /* WorkExperience */
 .work li{
-  border-bottom: 1px solid #f1f1f1;
-  margin-bottom: 2em;
+  /* border-bottom: 1px solid #f1f1f1; */
+  /* margin-bottom: 2em; */
 }
 .work li span{
   float: right;
@@ -697,7 +697,7 @@ Change widths as necessary
 
  /* 2 COLUMN GRID */
  .g1 {width:48.0%}
- .g2 {width:48.0%}
+ .g2 {width:98.0%}
  .g3 {width:98.0%}
 }
 
@@ -721,7 +721,7 @@ Change widths as necessary
 }
   /* 3 COLUMN GRID */
   .g1 {width:31.333%}
-  .g2 {width:64.667%;}
+  .g2 {width:98.0%;}
   .g3 {width:98.0%}
 }
 
